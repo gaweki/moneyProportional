@@ -23,14 +23,19 @@ def count(money):
   print "total cash yang dapat dipergunakan: ", '{:,}'.format(money) 
   print "----------===-----------"
   print "investasi: ", '{:,}'.format(investasi) 
+  print "Dibagi menjadi: \n*Uang nikah\n*Uang Ke Israel\n*Uang DP Rumah\n"
   print "----------===-----------"
   print "liburan: ", '{:,}'.format(liburan) 
+  print "Dibagi menjadi: \n*Pacaran\n"
   print "----------===-----------"
   print "Pengembangan diri: ", '{:,}'.format(selfImprovement) 
+  print "Dibagi menjadi: \n*Kuliah\n*Pelatihan Online\n*Kartu Kredit\n"
   print "----------===-----------"
   print "bersosialisasi: ", '{:,}'.format(bersosialisasi) 
+  print "Dibagi menjadi: \n*Perpuluhan\n*Sedekah\n"
   print "----------===-----------"
   print "Sehari hari: ", '{:,}'.format(days) 
+  print "Dibagi menjadi: \n*Makan\n*Motor\n*Kos\n*Kuota Internet"
 
 
 askValue()
