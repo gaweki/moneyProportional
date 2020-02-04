@@ -23,7 +23,7 @@ def count(money):
   print "total cash yang dapat dipergunakan: ", '{:,}'.format(money) 
   print "----------===-----------"
   print "investasi: ", '{:,}'.format(investasi) 
-  print "Dibagi menjadi: \n*Nikah\n*Ke Israel\n*DP Tenjo City J6-35\nAdministrasi Sentra Finance\n"
+  print "Dibagi menjadi: \n*Nikah\n*Ke Israel\n*DP Tenjo City J6-35\n*Administrasi Cicilan Sentra Finance\n"
   print "----------===-----------"
   print "liburan: ", '{:,}'.format(liburan) 
   print "Dibagi menjadi: \n*Pacaran\n"
@@ -35,7 +35,7 @@ def count(money):
   print "Dibagi menjadi: \n*Perpuluhan\n*Sedekah\n"
   print "----------===-----------"
   print "Sehari hari: ", '{:,}'.format(days) 
-  print "Dibagi menjadi: \n*Makan\nWifi\nMinyak Motor\n*Cuci Motor + Helm\nServis Motor\nOli Motor\nTabungan 500ribu\n*Kos\n*Kuota Internet"
+  print "Dibagi menjadi: \n*Makan\n*Wifi\n*Minyak Motor\n*Cuci Motor + Helm\n*Servis Motor\n*Oli Motor\n*Tabungan 500ribu\n*Kos\n*Kuota Internet"
 
 
 askValue()
